@@ -1,2 +1,2 @@
 # project_sprint5
-Project related to do sprint 5 for the Data Analist course in Tripleten
+Projecto sprint 5 cria um aplicativo que gera gráficos de dispersão ou histograma utilizando dados sobre venda de veículos.
